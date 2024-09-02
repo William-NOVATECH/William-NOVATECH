@@ -3,7 +3,7 @@
 	Hi 👋, I'm William Rodríguez
 </h1>
 <h3 align="center">
-	A passionate fullstack developer from Nicaragua
+	A passionate junior developer from Nicaragua
 </h3>
 
 <!--
@@ -209,8 +209,8 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roland-fARKER&show_icons=true&locale=en&layout=compact" alt="Roland-fARKER" /></p> -->
 <p>
 	&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Roland-fARKER&show_icons=true&locale=en" alt="Roland-fARKER" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=William-NOVATECH&show_icons=true&locale=en" alt="William-NOVATECH" />
 </p>
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roland-fARKER&" alt="Roland-fARKER" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=William-NOVATECH&" alt="William-NOVATECH" />
 </p>
